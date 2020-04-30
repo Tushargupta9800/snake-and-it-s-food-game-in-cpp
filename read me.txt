@@ -1,0 +1,3 @@
+download the exe file double click on it and enjoy
+
+I made this game in cpp without using graphics.h header file
